@@ -7,7 +7,7 @@ const anagram = (item1, item2) => {
 };
 
 const word1 = 'alex';
-const word2 = 'aexa'
+const word2 = 'axel'
 
 anagram(word1,word2)
 
