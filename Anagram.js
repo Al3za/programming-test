@@ -6,16 +6,10 @@ const anagram = (item1, item2) => {
     return FirstWord==SecondWord
 };
 
-//  const word1 = 'paolino';
-//  const word2 = 'laopino';
+const word1 = 'alex';
+const word2 = 'aexa'
 
- anagram('ale', 'lea');
+anagram(word1,word2)
 
 module.exports  = {anagram}
 
- 
-//console.log(word1.split('').sort().join())
-
-//const fruits = ["Banana", "Orange", "Apple", "Mango"];
-
-//console.log( typeof(fruits.join()))
