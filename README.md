@@ -14,14 +14,14 @@ then sorted (sort()) to get the letters in ascendig orders
 ```
 [ 'a', 'e', 'l', 'x' ]
 ```
-and finally joined (join()) again, so we can have again a string and no longer an array
+and finally join (join()), so we can have again a string and no longer an array
 ```
 aelx
 
 ```
-Remember to expres what what you wanna join, in this case each string: join('')
+Remember to expres what you wanna join, in this case each string: join('')
 
-If the parametrs where an anagrams we will have  a True response from the function, otherwise we will get False as response;
+If the parameters are anagrams we will get a True as response from the function, otherwise we will get False;
 
 
 Now we want to test our function.
