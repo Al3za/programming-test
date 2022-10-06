@@ -10,11 +10,11 @@ then splitted (split()) into an array of substrings:
 ```
 [ 'a', 'l', 'e', 'x' ]
 ```
-, then sorted (sort()) to get the letters in ascendig orders
+then sorted (sort()) to get the letters in ascendig orders
 ```
 [ 'a', 'e', 'l', 'x' ]
 ```
-and finally joined (join()) again, so we can have agai a string and no longer an array
+and finally joined (join()) again, so we can have again a string and no longer an array
 ```
 aelx
 
