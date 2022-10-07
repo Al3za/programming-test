@@ -23,9 +23,6 @@ class Calculator {
      return this.calculatorResult = 0;
     }
   
-    // Add Clear (last action)
-    // Add ClearAll
-  
     getResult() {
       return this.calculatorResult;
     }
